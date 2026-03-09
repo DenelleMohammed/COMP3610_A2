@@ -1,8 +1,8 @@
 # COMP3610 Assignment 2 – Taxi Tip Prediction
 
 Author: Denelle Mohammed  
-Course: COMP3610 – Machine Learning  
-Assignment: Assignment 2 – Machine Learning Models  
+Course: COMP3610  
+Assignment: Assignment 2
 
 ## Project Overview
 This project applies machine learning techniques to analyze NYC taxi trip data and predict tipping behavior. Two predictive tasks are addressed:
